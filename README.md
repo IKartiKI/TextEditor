@@ -1,16 +1,33 @@
 # text_editor
 
-A new Flutter project.
+A simple text editor application built in Flutter that allows users to add, move, and format text on a canvas. Users can also undo and redo actions, change text font, size, style (bold, italic, underline), and interact with the text directly.
 
-## Getting Started
+## Features
+  - Add Custom Text: Users can add custom text by typing on the keyboard.
+  - Move Text: Users can move any text freely on the screen by dragging it.
+  - Text Formatting: Includes options for font style, font size, bold, italic, and underline.
+  - Undo/Redo: Keep track of text changes and revert or redo changes.
+  - Interactive Toolbar: A floating toolbar with options for text formatting and adding new text.
+  - Font Variety: Multiple font styles are available for the user to choose from.
+## Installation
+1. Clone the repository:
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/IKartiKI/TextEditor.git
+```
 
-A few resources to get you started if this is your first Flutter project:
+2. Navigate to the project directory:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+cd text_editor
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Install dependencies:
+```
+flutter pub get
+```
+
+4. Run the app:
+```
+flutter run
+```
