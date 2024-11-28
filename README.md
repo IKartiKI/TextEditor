@@ -11,8 +11,9 @@ A simple text editor application built in Flutter that allows users to add, move
   - Font Variety: Multiple font styles are available for the user to choose from.
 
 ## Demo
-Following is the link to demo testing of the app
-[link]([doc:linking-to-pages#anchor-links](https://youtube.com/shorts/bu9Te8Z_1pg?feature=share))
+Following is the link to demo testing of the app-
+
+[Youtube](https://youtube.com/shorts/bu9Te8Z_1pg?feature=share)
 ## Installation
 1. Clone the repository:
 
