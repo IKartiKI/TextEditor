@@ -9,6 +9,10 @@ A simple text editor application built in Flutter that allows users to add, move
   - Undo/Redo: Keep track of text changes and revert or redo changes.
   - Interactive Toolbar: A floating toolbar with options for text formatting and adding new text.
   - Font Variety: Multiple font styles are available for the user to choose from.
+
+## Demo
+Following is the link to demo test of the following app []
+[link](doc:linking-to-pages#anchor-links)
 ## Installation
 1. Clone the repository:
 
